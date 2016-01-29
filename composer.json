@@ -16,7 +16,6 @@
   },
   "package": {
     "name": "tz5514/zh-fakeman",
-    "version": "0.1.0",
     "source": {
       "url": "git@github.com:tz5514/ZhFakeman.git",
       "type": "git",
@@ -27,5 +26,6 @@
         "Weaverryan\\DangerZone" : "src"
       }
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
