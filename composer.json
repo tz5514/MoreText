@@ -1,12 +1,31 @@
 {
+  "name": "tz5514/zh-fakeman",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tz5514",
+      "email": "tz5514@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ZhFakeman\\": "src/ZhFakeman/"
+    }
+  },
+  "package": {
     "name": "tz5514/zh-fakeman",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "tz5514",
-            "email": "tz5514@gmail.com"
-        }
-    ],
-    "require": {}
+    "version": "0.1.0",
+    "source": {
+      "url": "git@github.com:tz5514/ZhFakeman.git",
+      "type": "git",
+      "reference": "master"
+    },
+    "autoload": {
+      "psr-0" : {
+        "Weaverryan\\DangerZone" : "src"
+      }
+    }
+  }
 }
