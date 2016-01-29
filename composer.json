@@ -14,18 +14,5 @@
       "ZhFakeman\\": "src/ZhFakeman/"
     }
   },
-  "package": {
-    "name": "tz5514/zh-fakeman",
-    "source": {
-      "url": "git@github.com:tz5514/ZhFakeman.git",
-      "type": "git",
-      "reference": "master"
-    },
-    "autoload": {
-      "psr-0" : {
-        "Weaverryan\\DangerZone" : "src"
-      }
-    }
-  },
   "minimum-stability": "dev"
 }
