@@ -1,5 +1,5 @@
 <?php
-namespace ZhFakeman;
+namespace tz5514;
 
 class ZhFakeman {
   public static function make($n = 1, $range = [0, 500]) {
