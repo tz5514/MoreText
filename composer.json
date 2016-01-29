@@ -1,0 +1,12 @@
+{
+    "name": "tz5514/zh-fakeman",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tz5514",
+            "email": "tz5514@gmail.com"
+        }
+    ],
+    "require": {}
+}
